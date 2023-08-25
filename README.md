@@ -1,2 +1,3 @@
 # Demo
-Git repository demo
+Git repository demo.
+Author - A9 SPeedy
